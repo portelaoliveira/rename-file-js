@@ -1,0 +1,12 @@
+{
+  "name": "rename-file",
+  "version": "1.0.0",
+  "description": "Renomear arquivos",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Portela",
+  "license": "ISC",
+  "type": "module"
+}
